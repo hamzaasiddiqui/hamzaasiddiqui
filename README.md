@@ -4,7 +4,7 @@
 
 #### 🌍  I'm based in Islamabad, Pakistan.
 #### 🖥️  See my portfolio at [my personal website.](https://hamzasiddiqui.vercel.app/)
-#### 📃  View my [resume.](https://drive.google.com/file/d/121oLDVB7UkkPDZpZ_2R-_4qkV6xpmTJs/view?usp=sharing)
+#### 📃  View my [resume.](https://hamzasiddiqui.vercel.app/HamzaSiddiquiResume.pdf)
 #### ✉️  You can contact me at [hamza.eins@gmail.com](mailto:hamza.eins@gmail.com)
 #### 🧠  Currently I'm learning Django and working with LLMs.
 
